@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Suyashh2929/BIBLIOS/static/css/main.30f8c204.css",
+    "main.js": "/Suyashh2929/BIBLIOS/static/js/main.f03a2be3.js",
+    "static/media/logo.png": "/Suyashh2929/BIBLIOS/static/media/logo.ade0ae24a019b7b27069.png",
+    "static/media/library-img.jpg": "/Suyashh2929/BIBLIOS/static/media/library-img.0f1415159d54caa51b38.jpg",
+    "static/media/cover_not_found.jpg": "/Suyashh2929/BIBLIOS/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/Suyashh2929/BIBLIOS/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "index.html": "/Suyashh2929/BIBLIOS/index.html",
+    "static/media/loader.svg": "/Suyashh2929/BIBLIOS/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.30f8c204.css.map": "/Suyashh2929/BIBLIOS/static/css/main.30f8c204.css.map",
+    "main.f03a2be3.js.map": "/Suyashh2929/BIBLIOS/static/js/main.f03a2be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f8c204.css",
+    "static/js/main.f03a2be3.js"
+  ]
+}
